@@ -6,7 +6,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am an Applied Scientist at Uber, where I use statistical tools and large datasets to answer causal questions and learn from noisy estimates.
+I am a Scientist at Uber, where I use ML, statistical tools, and large datasets to target incentives, answer causal questions, and learn from noisy estimates.
+
 
 Previously, I was a Predoctoral Fellow at [Opportunity Insights](https://opportunityinsights.org), where I used econometric tools and large datasets to study the role of [colleges](https://www.nytimes.com/interactive/2023/07/24/upshot/ivy-league-elite-college-admissions.html) as engines of upward mobility. I also used statistical theory to better understand noisy estimates and rebuilt the IRS Databank, a database used by the Treasury and the IRS that holds the universe of raw American tax records into a person-year panel structure. 
 
